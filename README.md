@@ -1,4 +1,4 @@
-# Hi I'm David 👋
+# Hi I'm David 👋 
 [![Linkedin Badge](https://img.shields.io/badge/-dthyresson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dthyresson/)](https://www.linkedin.com/in/dthyressony/)
 [![Dev.to Badge](https://img.shields.io/badge/-dthyresson-0A0A0A?style=flat&&logo=dev.to&logoColor=white&link=https://dev.to/dthyresson)](https://dev.to/@dthyresson)
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-dthyresson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dthyresson+gh@gmail.com)](mailto:dthyresson+gh@gmail.com)
 
 Welcome to my Github profile! I currently work as ... I have built .. . I enjoy ...
+
+`Thyresson` is a :sweden:-ish surname. The closest English pronunciation is "tear-eh-sn" or jsut :cry: :sun_with_face:. It's derived from ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology). 
 
 <h3>Things I code with</h3>
 <p>
