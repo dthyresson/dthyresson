@@ -5,7 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
 [![Gmail Badge](https://img.shields.io/badge/-dthyresson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dthyresson+gh@gmail.com)](mailto:dthyresson+gh@gmail.com)
 
-Welcome to my Github profile! I currently work as ... I have built .. . I enjoy ...
+Welcome to my Github profile! I recently was the CTO of <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and am currently doing freelance data analytics work at [TCB Analytics](https://tcbanalytics.com/). 
+
+Before then I was part of a few sports (and oil and gas)-related and consulting startups. I have built apps that I'll here showcase soon since most are private repos. 
+
+I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera, vintage 🥁 🤖 drum machines and 🎹 synths. 
 
 `Thyresson` is a :sweden:-ish surname. The closest English pronunciation is "tear-eh-sn" or jsut :cry: :sun_with_face:. It's derived from ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology). 
 
@@ -32,6 +36,7 @@ Welcome to my Github profile! I currently work as ... I have built .. . I enjoy 
   <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=Atom&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
+  <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white" />
 
 
 
@@ -41,6 +46,13 @@ Welcome to my Github profile! I currently work as ... I have built .. . I enjoy 
 <h3>Projects I am working on</h3>
 <h3><a href="https://www.redwoodjs.com">RedwoodJS</a></h3>
 <p>Contributing to RedwoodJS. Redwood is an opinionated, full-stack, serverless web application framework that will allow you to build and deploy JAMstack applications with ease. Imagine a React frontend, statically delivered by CDN, that talks via GraphQL to your backend running on AWS Lambdas around the world, all deployable with just a git push—that's Redwood.</p>
+
+<h3><a href="https://github.com/dthyresson/netlify-plugin-redwoodjs-env-validator">netlify-plugin-redwoodjs-env-validator</a>
+<p>A Netlify Build Plugin helps to validate RedwoodJS environment variables when deploying to Netlify.</p>
+
+<h3><a href="https://github.com/dthyresson/deployed">Deployed</a>
+<p>Dashboard to track metrics of Netlify deploy successes, fails over time via a Netlify build Plugin.
+
 <h3>-</h3>
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/dthyresson/)!
