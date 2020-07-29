@@ -11,7 +11,7 @@ Before then I was part of a few sports (and oil and gas)-related and consulting 
 
 I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera, vintage 🥁 🤖 drum machines and 🎹 synths. 
 
-`Thyresson` is a :sweden:-ish surname. The closest English pronunciation is "tear-eh-sn" or jsut :cry: :sun_with_face:. It's derived from ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology). 
+`Thyresson` is a :sweden:-ish surname. The closest English pronunciation is "tear-eh-sn" or just :cry: :sun_with_face:. It's derived from ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology). 
 
 <h3>Things I code with</h3>
 <p>
