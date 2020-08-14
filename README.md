@@ -1,5 +1,5 @@
 # Hi I'm David 👋 
-[![Linkedin Badge](https://img.shields.io/badge/-dthyresson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dthyresson/)](https://www.linkedin.com/in/dthyressony/)
+[![Linkedin Badge](https://img.shields.io/badge/-dthyresson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dthyresson/)](https://www.linkedin.com/in/dthyresson)
 [![Dev.to Badge](https://img.shields.io/badge/-dthyresson-0A0A0A?style=flat&&logo=dev.to&logoColor=white&link=https://dev.to/dthyresson)](https://dev.to/@dthyresson)
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
