@@ -4,7 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
 
-Welcome to my Github profile! I recently was the CTO of <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and am currently doing freelance data analytics work at [TCB Analytics](https://tcbanalytics.com/). 
+Welcome to my Github profile! I recently was the CTO of <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and am currently advise them on thier technology adn data efforrt. 
+
+Currently I am part of the [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and also do some freelance data analytics work at [TCB Analytics](https://tcbanalytics.com/). 
 
 Before then I was part of a few sports (and oil and gas)-related and consulting startups. I have built apps that I'll here showcase soon since most are private repos. 
 
