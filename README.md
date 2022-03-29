@@ -50,12 +50,6 @@ I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera
 <h3><a href="https://www.redwoodjs.com">RedwoodJS</a></h3>
 <p>Contributing to RedwoodJS. Redwood is an opinionated, full-stack, serverless web application framework that will allow you to build and deploy JAMstack applications with ease. Imagine a React frontend, statically delivered by CDN, that talks via GraphQL to your backend running on AWS Lambdas around the world, all deployable with just a git push—that's Redwood.</p>
 
-<h3><a href="https://github.com/dthyresson/netlify-plugin-redwoodjs-env-validator">netlify-plugin-redwoodjs-env-validator</a></h3>
-<p>A Netlify Build Plugin helps to validate RedwoodJS environment variables when deploying to Netlify.</p>
-
-<h3><a href="https://github.com/dthyresson/deployed">Deployed</a></h3>
-<p>Dashboard to track metrics of Netlify deploy successes, fails over time via a Netlify build Plugin.
-
 <h3>-</h3>
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/dthyresson/)!
