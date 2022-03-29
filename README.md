@@ -50,10 +50,6 @@ I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera
 <h3><a href="https://www.redwoodjs.com">RedwoodJS</a></h3>
 <p>Contributing to RedwoodJS. Redwood is an opinionated, full-stack, serverless web application framework that will allow you to build and deploy JAMstack applications with ease. Imagine a React frontend, statically delivered by CDN, that talks via GraphQL to your backend running on AWS Lambdas around the world, all deployable with just a git push—that's Redwood.</p>
 
-<h3>-</h3>
-
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/dthyresson/)!
-
 ![image](https://raw.githubusercontent.com/dthyresson/dthyresson/master/images/bbwy.jpg)
 
 <!--
