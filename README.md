@@ -10,7 +10,7 @@ Currently I am part of the [RedwoodJS](https://www.redwoodjs.com) [Core Team](ht
 
 I recently was the CTO of <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and currently advise them on thier [technology and data efforts](https://app.sportsilab.com/login) like [The Fan Project](https://thefanproject.co/). 
 
-Before then I was part of a few sports (and oil and gas)-related and consulting startups. I have built apps that I'll here showcase soon since most are private repos. 
+Before then I was part of a few sports (and oil and gas)-related and consulting startups. 
 
 I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera, vintage 🥁 🤖 drum machines and 🎹 synths. 
 
