@@ -1,4 +1,4 @@
-# Hi I'm David (aka dt) 👋 
+# Hi, I'm David (aka dt) 👋 
 [![Linkedin Badge](https://img.shields.io/badge/-dthyresson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dthyresson/)](https://www.linkedin.com/in/dthyresson)
 [![Dev.to Badge](https://img.shields.io/badge/-dthyresson-0A0A0A?style=flat&&logo=dev.to&logoColor=white&link=https://dev.to/dthyresson)](https://dev.to/@dthyresson)
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
