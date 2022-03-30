@@ -12,7 +12,7 @@ Before then I was part of a few 🏟 sports (and 🛢 oil and gas)-related and �
 
 I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera, vintage 🥁 🤖 drum machines and 🎹 synths. 
 
-`Thyresson` is a :sweden:-ish surname pronounces"tear-eh-son" or just :cry: :sun_with_face:. It comes from from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology): ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" . 
+`Thyresson` is a :sweden:-ish surname pronounced "tear-eh-son" or simply: :cry: :sun_with_face:. It comes from from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology): ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" . 
 
 <p>
   
