@@ -42,14 +42,7 @@ I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
   <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white" />
 
-
-
 </p>
-
-
-<h3>Projects I am working on</h3>
-<h3><a href="https://www.redwoodjs.com">RedwoodJS</a></h3>
-<p>Contributing to RedwoodJS. Redwood is an opinionated, full-stack, serverless web application framework that will allow you to build and deploy JAMstack applications with ease. Imagine a React frontend, statically delivered by CDN, that talks via GraphQL to your backend running on AWS Lambdas around the world, all deployable with just a git push—that's Redwood.</p>
 
 <!--
 **dthyresson/dthyresson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
