@@ -1,18 +1,18 @@
-# Hi I'm David 👋 
+# Hi I'm David (aka dt) 👋 
 [![Linkedin Badge](https://img.shields.io/badge/-dthyresson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dthyresson/)](https://www.linkedin.com/in/dthyresson)
 [![Dev.to Badge](https://img.shields.io/badge/-dthyresson-0A0A0A?style=flat&&logo=dev.to&logoColor=white&link=https://dev.to/dthyresson)](https://dev.to/@dthyresson)
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
 
-Currently I am part of the [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and consult at [Supabase](https:www.supabase.com). 
+I'm part of the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and also consult at ⚡️[Supabase](https:www.supabase.com). 
 
-I recently was the CTO of <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and currently advise them on thier [technology and data efforts](https://app.sportsilab.com/login) like [The Fan Project](https://thefanproject.co/). 
+I recently was the CTO of 🏒 <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and currently advise them on thier [technology and data efforts](https://app.sportsilab.com/login) like [The Fan Project](https://thefanproject.co/). 
 
-Before then I was part of a few sports (and oil and gas)-related and consulting startups. 
+Before then I was part of a few 🏟 sports (and 🛢 oil and gas)-related and 🤔 consulting startups. 
 
 I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera, vintage 🥁 🤖 drum machines and 🎹 synths. 
 
-`Thyresson` is a :sweden:-ish surname. The closest English pronunciation is "tear-eh-son" or just :cry: :sun_with_face:. It's derived from ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology). 
+`Thyresson` is a :sweden:-ish surname pronounces"tear-eh-son" or just :cry: :sun_with_face:. It comes from from [Norse Mythology](https://en.wikipedia.org/wiki/Norse_mythology): ᛏ "son of [Týr](https://en.wikipedia.org/wiki/T%C3%BDr)" . 
 
 <p>
   
