@@ -4,9 +4,11 @@
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
 
-I'm part of the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and also consult at ⚡️[Supabase](https:www.supabase.com). 
+I'm part of the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and work with the [Redwood Startup Fund](https://www.redwoodstartupfund.com).
 
-I recently was the CTO of 🏒 <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and currently advise them on thier [technology and data efforts](https://app.sportsilab.com/login) like [The Fan Project](https://thefanproject.co/). 
+I recently consulted at ⚡️[Supabase](https:www.supabase.com). 
+
+Before then, I was the CTO of 🏒 <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and currently advise them on thier [technology and data efforts](https://app.sportsilab.com/login) like [The Fan Project](https://thefanproject.co/). 
 
 Before then I was part of a few 🏟 sports (and 🛢 oil and gas)-related and 🤔 consulting startups. 
 
