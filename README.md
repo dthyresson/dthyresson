@@ -4,13 +4,11 @@
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
 
-I'm part of the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and work with the [Redwood Startup Fund](https://www.redwoodstartupfund.com).
+I'm a GP at [Preston-Werner Ventures](https://prestonwernerventures.com) and also part of the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team).
 
-I recently consulted at ⚡️[Supabase](https:www.supabase.com). 
+I consulted at ⚡️[Supabase](https:www.supabase.com) a few years ago helping out in 🔐 Authentication.
 
-Before then, I was the CTO of 🏒 <a href="https://www.sportsilab.com">Sports Innovation Lab</a> and currently advise them on thier [technology and data efforts](https://app.sportsilab.com/login) like [The Fan Project](https://thefanproject.co/). 
-
-Before then I was part of a few 🏟 sports (and 🛢 oil and gas)-related and 🤔 consulting startups. 
+Before then I was part of a few 🏟 sports, 🔋 energy-related and 🤔 consulting startups. 
 
 I enjoy ☕️, 🖍 street art, 🧷 punk/new wave/rock poster art and ephemera, vintage 🥁 🤖 drum machines and 🎹 synths. 
 
