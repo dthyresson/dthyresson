@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-thyresson.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://thyresson.io)
 [![Twitter Badge](https://img.shields.io/badge/-@dthyresson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dthyresson)](https://twitter.com/dthyresson)
 
-I'm a Mnaging Director and General Partner at [PWV](https://www.pwv.com) where I invest in early‑stage technology companies alongside [Tom Presron-Werner](https://github.com/mojombo) and [David Price](https://github.com/thedavidprice.
+I'm a Managing Director and General Partner at [PWV](https://www.pwv.com) where I invest in early‑stage technology companies alongside [Tom Presron-Werner](https://github.com/mojombo) and [David Price](https://github.com/thedavidprice.
 
 Previiously, I was on the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and consulted at ⚡️[Supabase](https:www.supabase.com) where I helped out in 🔐 Authentication.
 
