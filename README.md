@@ -6,7 +6,7 @@
 
 I'm a Managing Director and General Partner at [PWV](https://www.pwv.com) where I invest in early‑stage technology companies alongside [Tom Presron-Werner](https://github.com/mojombo) and [David Price](https://github.com/thedavidprice).
 
-Previiously, I was on the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and consulted at ⚡️[Supabase](https:www.supabase.com) where I helped out in 🔐 Authentication.
+Previously, I was on the 🌲 [RedwoodJS](https://www.redwoodjs.com) [Core Team](https://redwoodjs.com/docs/introduction#core-team) and consulted at ⚡️[Supabase](https:www.supabase.com) where I helped out in 🔐 Authentication.
 
 Before then I was part of a few 🏟 sports, 🔋 energy-related and 🤔 consulting startups. 
 
